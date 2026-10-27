@@ -1,0 +1,20 @@
+# Python 3.11; install torch==2.5.1 from the cu121 index separately.
+diffusers==0.35.1
+transformers==4.49.0
+accelerate==1.2.1
+huggingface-hub==0.34.4
+safetensors==0.5.3
+tokenizers==0.21.0
+bitsandbytes==0.45.5
+sentencepiece==0.2.0
+protobuf==5.29.3
+numpy==1.26.4
+Pillow==10.4.0
+imageio==2.37.0
+imageio-ffmpeg==0.6.0
+ftfy==6.3.1
+beautifulsoup4==4.13.4
+scipy==1.14.1
+opencv-python-headless==4.10.0.84
+psutil==6.1.1
+pytest==8.3.5
